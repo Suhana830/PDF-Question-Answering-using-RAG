@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+
+# Environment / secrets
+.env
+.env.*      # any other env files
+*.key
+*.pem
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / cache
+*.db
+*.sqlite3
+
+# Vector store (FAISS/Chroma)
+vectorstore/
+*.faiss
+*.index
+*.bin
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Python packaging
+*.egg-info/
+dist/
+build/
