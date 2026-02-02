@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-openai
+
+langchain-community 
+
+scikit-learn
+python-dotenv
+flask
+flask-cors
+streamlit
+chromadb
+
